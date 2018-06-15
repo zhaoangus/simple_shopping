@@ -124,7 +124,7 @@ img {
 
 .header .search-bar input:focus {
   -webkit-box-shadow: inset 0 0 2px 2px rgba(0,0,0,.3);
-  box-shadow: inset 0 0 2px 2px rgba(0,0,0,.3);
+  box-shadow: inset 0 0 2px 2px rgba(0,0,0,.05);
 }
 
 .header .search-bar button {
