@@ -64,6 +64,8 @@ img {
 
 .col-2 {
   width: 20%;
+  color: #dd182b;
+  margin: 0 auto;
 }
 
 .col-3 {
@@ -102,6 +104,7 @@ img {
 
 .header .logo {
   font-size: 30px;
+  margin: 0 auto;
 }
 
 .header .search-bar {
